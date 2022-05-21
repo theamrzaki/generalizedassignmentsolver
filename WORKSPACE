@@ -188,7 +188,7 @@ cc_library(
 
 new_local_repository(
     name = "localsolver",
-    path = "/opt/localsolver_8_5",
+    path = "/home/zaki/Desktop/Projects/Heursitics/localsearchsolver/localsearchsolver",
     build_file_content = """
 cc_library(
     name = "localsolver",

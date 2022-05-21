@@ -1,0 +1,17 @@
+Version identifier: 20.1.0.0 | 2020-11-10 | 9bedb6d68
+Tried aggregator 1 time.
+LP Presolve eliminated 0 rows and 144 columns.
+Reduced LP has 154 rows, 1440 columns, and 2880 nonzeros.
+Presolve time = 0.00 sec. (1.01 ticks)
+Symmetry aggregator did 231 additional substitutions.
+Initializing dual steep norms . . .
+
+Iteration log . . .
+Iteration:     1   Dual objective     =           -57.000000
+
+Dual crossover.
+  Dual:  Fixing 14 variables.
+       13 DMoves:  Infeasibility  0.00000000e+00  Objective -1.70000000e+01
+        0 DMoves:  Infeasibility  0.00000000e+00  Objective -1.70000000e+01
+  Dual:  Pushed 0, exchanged 14.
+  Primal:  Fixed no variables.

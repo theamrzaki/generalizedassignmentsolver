@@ -1,6 +1,5 @@
 #pragma once
 
-#if CPLEX_FOUND
 
 #include "generalizedassignmentsolver/solution.hpp"
 
@@ -28,5 +27,4 @@ MilpCplexOutput milp_cplex(const Instance& instance,
 
 }
 
-#endif
 
